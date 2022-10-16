@@ -4,4 +4,4 @@
 ![image](https://github.com/Science-B/task2/blob/master/imgs/table.png)
 При нажатии на barcode каждого заказа, появлялось бы дополнительное окно, в котором был бы виден список всех купленных билетов в этом заказе, а именно тип билета, barcode билета и цена.
 
-![image](https://github.com/Science-B/task2/blob/master/imgs/table.png](https://github.com/Science-B/task2/blob/master/imgs/table.png)
+![image](https://github.com/Science-B/task2/blob/master/imgs/modal.png)
